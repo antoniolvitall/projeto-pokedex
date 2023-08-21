@@ -1,1 +1,1 @@
-# collections-java-api-ago23
+Primeiro projeto de pokedex
