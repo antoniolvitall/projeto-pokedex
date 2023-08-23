@@ -25,6 +25,23 @@
     color: #fff;
 }
 
+.pokemon .number {
+    color: #000;
+    opacity: .3;
+    text-align: right;
+}
+
+.pokemon .detail {
+    display: flex;
+    flex-direction: row;
+}
+
+.pokemon .detail .types {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
 .pokemon .detail img {
     max-width: 100%;
     height: 100px;
